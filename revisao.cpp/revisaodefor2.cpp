@@ -10,9 +10,9 @@ int main() {
         a = a + 1;
         //a++;
     }
+    for (int i = 0; i < 10; i++)
+    {
+        cout << "Palavra" << endl;
 
-
-
-
-
-    return 0;
+    }
+}
